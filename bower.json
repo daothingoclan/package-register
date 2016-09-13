@@ -1,0 +1,21 @@
+{
+  "name": "ld-alert",
+  "authors": [
+    "Lan Dao <ngoclan141091@gmail.com>"
+  ],
+  "description": "this is my alert demo",
+  "main": "demo.js",
+  "keywords": [
+    "demo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "1.0"
+}
