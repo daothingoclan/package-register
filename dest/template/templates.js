@@ -1,0 +1,1 @@
+angular.module('journal').run(['$templateCache', function($templateCache) {$templateCache.put('master-journal/template.tpl.html','<div style="color: blue;">This is a test</div>');}]);

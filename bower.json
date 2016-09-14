@@ -1,15 +1,15 @@
 {
-  "name": "ld-alert",
+  "name": "Journal",
+  "description": "For more information about the background of the project, the requirements and how we would like the GUI to look like, take a look at the Wiki section of the project.",
+  "main": "index.js",
   "authors": [
     "Lan Dao <ngoclan141091@gmail.com>"
   ],
-  "description": "this is my alert demo",
-  "main": "demo.js",
+  "license": "ISC",
   "keywords": [
-    "demo"
+    "journal"
   ],
-  "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/aspit-as/Journal",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -17,5 +17,8 @@
     "test",
     "tests"
   ],
-  "version": "1.0"
+  "version": "0.0.2",
+  "devDependencies": {
+    "angular": "^1.5.8"
+  }
 }

@@ -1,0 +1,25 @@
+{
+  "name": "final-jounal-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daothingoclan/package-register.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daothingoclan/package-register/issues"
+  },
+  "homepage": "https://github.com/daothingoclan/package-register#readme",
+  "devDependencies": {
+    "browser-sync": "^2.15.0",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
